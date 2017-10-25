@@ -20,4 +20,4 @@ The following command outputs this folder:
   ./LaunchImage-Generator.py --color 81F79F
 ```
 
-![generated images](http://i283.photobucket.com/albums/kk317/Chi-kitory/Screen%20Shot%202016-03-24%20at%2011.10.39%20AM.png)
+![generated images](./screenshot.png)
